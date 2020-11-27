@@ -1,6 +1,6 @@
 # rmktools
 
-A collection of tools when in an R session
+A collection of tools for R
 
 ## Functions
 
