@@ -1,11 +1,13 @@
 # rmktools
 
-A collection of tools for R
+A collection of tools for R - most taken from various posts online.
 
 ## Functions
 
- - `nightModeOn`: Turns on "night mode" style plots
- - `nightModeOff`: Turns off "night mode" style plots
- - `showLty`: Shows the line types 
- - `showPch`: Shows the point character types
+ - `nightModeOn`: turns on "night mode" style plots.
+ - `nightModeOff`: turns off "night mode" style plots.
+ - `showLty`: shows the line types.
+ - `showPch`: shows the point character types.
+ - `lsos`: lists object and their memory usage.
+ - `colorPalette`: Creates a color palette.
 
